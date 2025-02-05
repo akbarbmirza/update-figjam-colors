@@ -1,0 +1,13 @@
+{
+  "name": "Update FigJam Colors",
+  "id": "1469443704502612629",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": ["figma", "figjam"],
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}
